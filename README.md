@@ -31,4 +31,5 @@ npm run build
 
 ## Live Portfolio
 
-Coming Soon
+
+🔗 https://jivanzine.vercel.app
